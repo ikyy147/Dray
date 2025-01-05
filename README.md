@@ -1,9 +1,1 @@
-[
-"6283151568511@s.whatsapp.net",
-"6289515000822@s.whatsapp.net",
-"6285810820809@s.whatsapp.net",
-"6283138178083@s.whatsapp.net",
-"62895352628501@s.whatsapp.net",
-"6285136810731@s.whatsapp.net"
-"62882020063509@s.whatsapp.net",
-]
+
